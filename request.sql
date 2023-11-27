@@ -1,0 +1,1 @@
+SELECT * FROM Geldmenge_M1;
